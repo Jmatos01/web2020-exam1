@@ -1,0 +1,21 @@
+
+
+.cont{
+  background-color: black;
+  width: 600px;
+  height: 300px;
+  margin: 0 auto;
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.box{
+   width: 50px;
+   height: 50px;
+   background-color: orange;
+   margin: 10px;    
+ }
+ .box1{
+   
+  align-self: flex-end;
+ }
